@@ -1,0 +1,121 @@
+body {
+    font-family: "telegrafico";
+    font-size: 20px;
+    line-height: 1.42857;
+    color: white;
+}
+section {
+    margin-left: -0.6%;
+    width: 101.2%;
+    padding-bottom: 2%;
+}
+section h1 {
+    padding-top: 4%;
+    font-size: 400%;
+    margin: 0 auto;
+}
+
+#welcome {
+    margin-top: -5%;
+    padding-top: 5%;
+    padding-bottom: 45.5%;
+    background-image: url("images/pokemon1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#navbar {
+    display: block;
+    margin-top: 4%;
+    margin-left: 35%;
+}
+
+.navelem {
+    display: inline;
+    padding-right: 5%;
+    font-size: 110%;
+}
+.navelem a {
+    color: white;
+    opacity: 0.7;
+    text-decoration: none;
+}
+.navelem a:hover {
+    opacity: 1;
+}
+
+#favs {
+    text-align: center;
+    color: #2574A9;
+    opacity: 0.85;
+}
+
+p {
+    font-size: 150%;
+}
+
+#favpokes {
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 3%;
+}
+#favpokes tr {
+    margin: 0 auto;
+}
+#favpokes td {
+    margin: 0 auto;
+
+}
+#favpokes td img {
+    opacity: 0.75;
+    cursor: pointer;
+}
+#favpokes td img:hover {
+    opacity: 1;
+}
+#favpokes td p {
+    font-size: 250%;
+    margin: 0 auto;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    opacity: 0.75;
+    cursor: pointer;
+}
+#favpokes td p:hover {
+    background-color: #2574A9;
+    color: white;
+    width: 67.5%;
+    opacity: 1;
+}
+
+
+#smogon {
+    text-align: center;
+    background-color: #2574A9;
+    height: auto;
+    color: white;
+    opacity: 0.9;
+}
+#smogon ul {
+    font-size: 150%;
+    display: inline-block;
+}
+#smogon li {
+    text-align: left;
+}
+
+#abtme {
+    margin-top: -2%;
+    text-align: center;
+    align: center;
+    color: #2574A9;
+    opacity: 0.9;
+}
+
+#media {
+    text-align: center;
+    background-color: #2574A9;
+}
+#media table {
+    display: inline-block;
+}
