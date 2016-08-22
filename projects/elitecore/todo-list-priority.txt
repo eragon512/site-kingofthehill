@@ -1,0 +1,12 @@
+Left:
+1. Add menu
+5. URL re-direction
+
+Documentation
+PS Diary
+
+Done:
+1. Add html/block
+2. Panel issue - only one layout per page
+3. Copy page
+4. DB - PHP view students
